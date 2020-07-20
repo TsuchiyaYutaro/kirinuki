@@ -1,7 +1,7 @@
 # セットアップ
 
 ```
-$ git clone 
+$ git clone https://github.com/tsuchiyaTaro/kirinuki
 ```
 
 ```
