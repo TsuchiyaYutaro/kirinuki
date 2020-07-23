@@ -1,4 +1,4 @@
-# セットアップ
+# Setup
 
 ```
 $ git clone https://github.com/tsuchiyaTaro/kirinuki
